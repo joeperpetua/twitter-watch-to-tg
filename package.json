@@ -1,12 +1,13 @@
 {
-  "name": "42_twitter",
+  "name": "twitter_to_tg",
   "version": "1.0.0",
-  "description": "",
+  "description": "Watch Twitter user for new tweets and send Telegram message.",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Joel Perpetua",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joeperpetua/twitter-watch-to-tg.git"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "needle": "^3.0.0",
