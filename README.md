@@ -14,15 +14,12 @@ Install:
 - Extract the zip
 - In the extracted folder run `npm install`
 
-Create a tokens.json file with the following elements:
+Fill the tokens.json template file with the following elements:
 - twitterBearer (Twitter API bearer token)
 - botToken (Telegram bot token)
 - TgUserID (Telegram user to receive the message)
 - TwUserID (Twitter user ID to watch new tweets from)
 - TwUsername (Twitter user username to watch new tweets from)
-
-Create empty file called:
-- latest_tweet
 
 Run:
 
